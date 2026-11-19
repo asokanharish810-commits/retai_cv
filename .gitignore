@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+result.mp4
+result.zip
+store_video.mp4
